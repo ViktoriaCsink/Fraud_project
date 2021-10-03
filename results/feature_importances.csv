@@ -1,42 +1,42 @@
 Feature,Importance
-transactionAmount,0.31665875652586617
-paymentMethodProvider_Voyager,0.07916468913146657
-incongruity_1,0.07916468913146657
+transactionAmount,0.42551020408163265
+paymentMethodIssuer_Her Majesty Trust,0.1385382059800665
+paymentMethodIssuer_Vertex Bancorp,0.12864261983863312
+paymentMethodProvider_VISA 13 digit,0.10885144755576648
+transactionFailed,0.08906027527289984
+paymentMethodProvider_VISA 16 digit,0.08906027527289984
 paymentMethodProvider_JCB 16 digit,0.0692691029900332
-paymentMethodIssuer_Bastion Banks,0.05937351684859993
-paymentMethodIssuer_Citizens First Banks,0.04947793070716655
-paymentMethodIssuer_Vertex Bancorp,0.04947793070716655
-transactionFailed,0.04947793070716655
-paymentMethodProvider_Maestro,0.04947793070716655
+paymentMethodIssuer_Citizens First Banks,0.0692691029900332
+paymentMethodIssuer_Bastion Banks,0.0692691029900332
+paymentMethodProvider_Voyager,0.0692691029900332
+incongruity_1,0.0692691029900332
+paymentMethodProvider_JCB 15 digit,0.05937351684859993
+paymentMethodProvider_Maestro,0.05937351684859993
+paymentMethodProvider_Mastercard,0.05937351684859993
+paymentMethodType_card,0.05937351684859993
+paymentMethodProvider_Diners Club / Carte Blanche,0.04947793070716655
+paymentMethodIssuer_Grand Credit Corporation,0.04947793070716655
+paymentMethodIssuer_e,0.04947793070716655
+paymentMethodRegistrationFailure,0.04947793070716655
+paymentMethodIssuer_Solace Banks,0.04947793070716655
+incongruity_0,0.039582344565733285
+paymentMethodIssuer_B,0.039582344565733285
 paymentMethodProvider_American Express,0.039582344565733285
-paymentMethodProvider_Diners Club / Carte Blanche,0.039582344565733285
-paymentMethodRegistrationFailure,0.039582344565733285
-paymentMethodProvider_VISA 13 digit,0.02968675842429991
-paymentMethodIssuer_e,0.02968675842429991
-paymentMethodIssuer_Her Majesty Trust,0.02968675842429991
-paymentMethodIssuer_Grand Credit Corporation,0.02968675842429991
-paymentMethodProvider_VISA 16 digit,0.02968675842429991
-paymentMethodIssuer_Bulwark Trust Corp.,0.019791172282866643
-paymentMethodProvider_JCB 15 digit,0.019791172282866643
+paymentMethodIssuer_Bulwark Trust Corp.,0.02968675842429991
+paymentMethodIssuer_His Majesty Bank Corp.,0.02968675842429991
+paymentMethodType_apple pay,0.02968675842429991
 paymentMethodIssuer_Rose Bancshares,0.019791172282866643
-paymentMethodIssuer_Fountain Financial Inc.,0.019791172282866643
-paymentMethodIssuer_His Majesty Bank Corp.,0.009895586141433266
-paymentMethodIssuer_Solace Banks,0.009895586141433266
-paymentMethodIssuer_c,0.009895586141433266
-paymentMethodIssuer_x,0.009895586141433266
-paymentMethodIssuer_B,0.009895586141433266
-orderState_fulfilled,0.009895586141433266
-paymentMethodProvider_Mastercard,0.009895586141433266
-paymentMethodProvider_Discover,0.009895586141433266
+paymentMethodIssuer_c,0.019791172282866643
+paymentMethodType_paypal,0.019791172282866643
+paymentMethodIssuer_x,0.019791172282866643
+paymentMethodIssuer_r,0.009895586141433266
+paymentMethodIssuer_Fountain Financial Inc.,0.009895586141433266
 orderState_pending,0.009895586141433266
-paymentMethodType_paypal,0.0
-paymentMethodType_card,0.0
+paymentMethodProvider_Discover,0.009895586141433266
+paymentMethodType_bitcoin,0.009895586141433266
+paymentMethodIssuer_o,0.009895586141433266
 paymentMethodIssuer_a,0.0
-paymentMethodType_bitcoin,0.0
-paymentMethodType_apple pay,0.0
-paymentMethodIssuer_n,0.0
-paymentMethodIssuer_o,0.0
 paymentMethodIssuer_p,0.0
-paymentMethodIssuer_r,0.0
-incongruity_0,0.0
+paymentMethodIssuer_n,0.0
+orderState_fulfilled,0.0
 orderState_failed,0.0
