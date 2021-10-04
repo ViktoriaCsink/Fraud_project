@@ -1,5 +1,5 @@
 # Fraud_project
-This was submitted as a coding exercise on financial crime.
+This project was submitted as a coding exercise on detecting fraudulent transactions.
 
 Contents:
 
@@ -21,8 +21,9 @@ preprocessed_data:
 Folder containing the cleaned data as a pandas dataframe (transactions.csv)
 
 results: 
-Folder containing the traned machine learning model (RF_model.sav) 
-and the features used during modelling, ranked by importance (feature_importances.csv) 
+Folder containing the trained machine learning model (RF_model.sav),
+the features used during modelling, ranked by importance (feature_importances.csv) 
+and a summary of the model performance (model_performance.png)
 
 
 
